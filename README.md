@@ -22,6 +22,11 @@ challenges.
 - **Python:** Exploring programming and AI applications
 - **Java:** Interested in learning and exploring
 - **Git & GitHub:** Building my project portfolio and developing my coding skills
+- <p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode"
+       alt="C, Python, Git, GitHub and VS Code"
+       height="45">
+</p>
 
 ## 🌱 Currently Learning
 - Python and C programming
